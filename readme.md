@@ -6,97 +6,71 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>IA Mentor de Carreira em Tecnologia</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
-
+  <img src="https://img.shields.io/static/v1?label=Nível&message=Básico&color=E94D5F&labelColor=202024" alt="Nivel">
 </p>
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+---
 
-<br/>
-<br/>
+## Sobre o Projeto
 
-## 💻 Sobre o Projeto
+Este projeto foi desenvolvido como parte de um desafio da Digital Innovation One (DIO) e tem como objetivo a criação de prompts estruturados para agentes de Inteligência Artificial voltados à orientação de carreira na área de tecnologia.
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+A solução é composta por dois agentes de IA com funções distintas, capazes de auxiliar usuários em diferentes etapas do planejamento profissional em tecnologia.
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+---
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+## Estrutura dos Agentes
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+### AGENT 1 – Entrevistador de Carreira em Tecnologia
+Agente responsável por conduzir entrevistas simuladas com o objetivo de:
+- Identificar o perfil profissional do usuário
+- Compreender objetivos e interesses na área de tecnologia
+- Avaliar nível de conhecimento técnico
+- Mapear pontos fortes e oportunidades de desenvolvimento
 
-- _Exemplo_:
+### AGENT 2 – Planejador de Carreira
+Agente responsável por:
+- Criar um plano de carreira personalizado
+- Sugerir trilhas de aprendizado
+- Indicar tecnologias e áreas de atuação
+- Orientar sobre próximos passos na evolução profissional
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+---
 
-- [Outros pré-requisitos, se aplicável]
+## Pré-requisitos
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+Para melhor aproveitamento do projeto, recomenda-se conhecimento básico em:
+- Lógica de programação
+- Conceitos iniciais de tecnologia
+- Interesse em desenvolvimento de software e carreira em TI
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+---
 
-- [Lista das habilidades principais a serem desenvolvidas]
+## Habilidades Desenvolvidas
 
-  - [Subhabilidades relacionadas, se aplicável]
+- Criação e organização de prompts para Inteligência Artificial
+- Definição de agentes com responsabilidades bem estabelecidas
+- Comunicação clara e estruturada
+- Planejamento de carreira em tecnologia
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+---
 
-## 🎯 Objetivos e Resultados Esperados
+## Objetivos do Projeto
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+Ao final deste projeto, o usuário será capaz de:
+- Criar agentes de IA com papéis bem definidos
+- Estruturar prompts eficientes para orientação profissional
+- Utilizar Inteligência Artificial como apoio no planejamento de carreira em tecnologia
+- Compreender diferentes caminhos de atuação na área de TI
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+---
 
 <!--START_SECTION:footer-->
 
