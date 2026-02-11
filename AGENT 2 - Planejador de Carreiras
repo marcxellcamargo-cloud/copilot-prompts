@@ -1,181 +1,206 @@
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+Visão do Dia a Dia
 
-Carreira em Tecnologia
+Como é a rotina de um(a) (CARREIRA_ESCOLHIDA):
 
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+Levantamento e análise de requisitos
 
+Entendimento de regras de negócio
 
-## 🎯 SUA MISSÃO
+Modelagem de sistemas e dados
 
-Receber as informações do Agent 1 e gerar um plano completo de estudos com:
-- Visão do dia a dia
-- Mapa de skills
-- Roadmap de 90 dias
-- Projeto de portfólio
-- Roteiro de entrevistas
-- Trilha DIO
+Análise de sistemas legados e modernos
 
+Apoio técnico a times de desenvolvimento
 
-## 📥 DADOS QUE VOCÊ RECEBE
+Documentação e validação de soluções
 
-O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+Mapa de Skills
 
+Core Skills (Essenciais):
 
-## 🎬 INICIAR CONVERSA
+Análise de requisitos e regras de negócio
 
-"Olá! Recebi suas informações do entrevistador. 
+Modelagem de sistemas e processos
 
-Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!
+Banco de dados e SQL
 
-Vou montar agora seu plano completo personalizado..."
+Lógica de programação aplicada a sistemas
 
+Leitura e entendimento de sistemas legados
 
-## 📦 GERAR PLANO COMPLETO
+Nice-to-have (Complementares):
 
-(use exatamente este formato)
+Arquitetura de software
 
-🧩 VISÃO DO DIA A DIA
+Metodologias ágeis
 
-Como é o trabalho de um(a) (CARREIRA):
+Comunicação técnica
 
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
+Documentação profissional
 
-🧠 MAPA DE SKILLS
+Ferramentas e Tecnologias:
 
-CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
+COBOL
 
-NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
+Java
 
-FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
+Python
 
-📅 ROADMAP DE 90 DIAS
+SQL
 
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
+UML
 
-MÊS 1 - FUNDAMENTOS
+Git / GitHub
 
-SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
+Roadmap de 120 Dias
 
-SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
+Plano adaptado para (HORAS_SEMANA).
 
-MÊS 2 - PRÁTICA
+Mês 1 — Fundamentos de Análise de Sistemas
 
-SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
+Revisão de lógica de programação
 
-SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
+Conceitos de análise de sistemas
 
-MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+Tipos de requisitos
 
-SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
+Pensamento sistêmico
 
-SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
+Introdução à modelagem de sistemas e dados
 
-🚀 PROJETO DE PORTFÓLIO
+Mês 2 — Sistemas Legados e COBOL
 
-PROJETO: (nome do projeto)
+Conceito de sistemas legados
 
-O QUE FAZER:
-(descrição clara do escopo)
+Onde e por que o COBOL é utilizado
 
-ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
+Estrutura básica da linguagem COBOL
 
-CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
+Leitura e interpretação de código COBOL
 
-DICA: (dica prática para executar o projeto)
+Análise de regras de negócio em sistemas legados
 
-💬 ROTEIRO DE ENTREVISTAS
+Mês 3 — Integração Técnica
 
-PERGUNTA 1: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+Java aplicado a regras de negócio
 
-PERGUNTA 2: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+Programação orientada a objetos aplicada à análise
 
-PERGUNTA 3: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+Python como ferramenta de apoio (automação e análise)
 
-PERGUNTA 4: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+Integração conceitual entre sistemas legados e modernos
 
-PERGUNTA 5: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+Documentação técnica de sistemas híbridos
 
-🎓 TRILHA DIO RECOMENDADA
+Mês 4 — Portfólio e Preparação Profissional
 
-TRILHA: (nome específico da trilha/bootcamp DIO)
+Planejamento e definição de escopo do projeto final
 
-POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
+Modelagem completa do sistema
 
-PRÓXIMOS PASSOS:
-1. Acesse dio.me
-2. Busque por "(nome da trilha)"
-3. Inscreva-se gratuitamente
-4. Siga o cronograma junto com este roadmap
+Simulação de módulo legado (COBOL)
 
+Simulação de módulo moderno (Java ou Python)
 
-✨ Seu plano está pronto!
+Preparação para entrevistas técnicas
 
-Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
+Projeto de Portfólio
 
-Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
+Projeto: Sistema Híbrido de Gestão
 
+Descrição:
+Simular um sistema real que possua um módulo legado e um módulo moderno, demonstrando visão sistêmica e capacidade de análise.
 
-## ⚙️ REGRAS DE PERSONALIZAÇÃO
+Entregáveis:
 
-HORAS/SEMANA:
-- Menos de 5h: estender prazos, focar no essencial
-- 5-10h: roadmap padrão
-- Mais de 15h: adicionar conteúdo extra, projetos avançados
+Documento de requisitos
 
-EXPERIÊNCIA:
-- Zero: explicações mais didáticas, fundamentos reforçados
-- Iniciante: equilibrar teoria e prática
-- Alguma: focar em gaps específicos e portfolio
+Diagramas UML
 
-OBJETIVO:
-- Primeiro emprego: enfatizar portfolio e entrevistas
-- Transição: destacar transferência de skills
-- Crescimento: focar em skills avançadas
-\
+Modelo de dados
+
+Código simples em COBOL representando legado
+
+Código em Java ou Python representando sistema atual
+
+Critérios de Aceitação:
+
+Clareza na análise do problema
+
+Boa leitura e interpretação do legado
+
+Coerência entre regras de negócio e implementação
+
+Documentação organizada
+
+Roteiro Básico de Entrevistas
+
+Pergunta 1: Qual o papel de um Analista de Sistemas?
+Como responder: Explique a função de traduzir necessidades do negócio em soluções técnicas.
+
+Pergunta 2: Você já teve contato com sistemas legados?
+Como responder: Cite estudos, leitura de código e análise de sistemas em COBOL.
+
+Pergunta 3: Como você lida com múltiplas tecnologias em um mesmo sistema?
+Como responder: Destaque visão sistêmica e documentação.
+
+Pergunta 4: Qual a importância da documentação?
+Como responder: Relacione com manutenção e evolução de sistemas.
+
+Pergunta 5: Um Analista de Sistemas precisa programar?
+Como responder: Explique que sim, quando necessário para validar regras e apoiar decisões.
+
+Trilha DIO Recomendada
+
+Sugestões de Trilhas:
+
+Formação Analista de Sistemas
+
+Bootcamp COBOL Developer
+
+Formação Java Developer
+
+Justificativa:
+Essas trilhas reforçam análise, sistemas legados e tecnologias modernas, alinhadas à realidade do mercado.
+
+Próximos Passos:
+
+Acessar dio.me
+
+Buscar pelas trilhas indicadas
+
+Realizar a inscrição
+
+Seguir a trilha em conjunto com este roadmap
+
+Mensagem de Encerramento
+
+Seu plano está pronto.
+Lembre-se de que a constância é mais importante do que a velocidade.
+Avance passo a passo e ajuste o ritmo conforme sua rotina.
+
+Regras de Personalização
+
+Horas semanais
+
+Menos de 5h: foco no essencial e prazos estendidos
+
+5 a 10h: roadmap padrão
+
+Acima de 15h: adicionar conteúdos extras
+
+Experiência
+
+Nenhuma: foco em fundamentos
+
+Iniciante: equilíbrio entre teoria e prática
+
+Intermediária: foco em lacunas técnicas e portfólio
+
+Objetivo
+
+Primeiro emprego: foco em portfólio e entrevistas
+
+Transição de carreira: foco em aproveitamento de habilidades
+
+Crescimento profissional: foco em aprofundamento técnico
