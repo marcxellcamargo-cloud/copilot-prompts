@@ -35,12 +35,20 @@ Agente responsável por conduzir entrevistas simuladas com o objetivo de:
 - Avaliar nível de conhecimento técnico
 - Mapear pontos fortes e oportunidades de desenvolvimento
 
-### AGENT 2 – Planejador de Carreira
-Agente responsável por:
-- Criar um plano de carreira personalizado
-- Sugerir trilhas de aprendizado
-- Indicar tecnologias e áreas de atuação
-- Orientar sobre próximos passos na evolução profissional
+### AGENT 2 – Planejador de Carreira em Tecnologia
+
+Responsável por transformar as informações coletadas pelo Agent 1 em um plano de desenvolvimento profissional personalizado.
+
+Este agente gera:
+- Visão prática do dia a dia da carreira escolhida
+- Mapa de habilidades essenciais e complementares
+- Roadmap estruturado de 120 dias
+- Projeto prático para portfólio
+- Roteiro básico para entrevistas técnicas
+- Recomendações de trilhas da DIO
+
+O plano considera tanto tecnologias modernas quanto sistemas legados, incluindo linguagens como Java, Python e COBOL.
+
 
 ---
 
